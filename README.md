@@ -1,1 +1,1 @@
-# briefly-ai-summariser
+# Briefly-ai-summariser
